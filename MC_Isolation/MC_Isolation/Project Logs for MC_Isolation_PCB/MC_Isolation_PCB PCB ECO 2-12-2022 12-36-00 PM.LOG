@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GLV_12V Pin=J1-2
+Removed Pin From Net: NetName=GND_IN Pin=J1-3
+Removed Pin From Net: NetName=Ignition_In Pin=J1-4
+Removed Pin From Net: NetName=GND_OUT Pin=J3-1
+Removed Pin From Net: NetName=Throttle_Out Pin=J3-3
+Removed Pin From Net: NetName=GND_OUT Pin=J4-1
+Removed Pin From Net: NetName=Throttle_Out Pin=J4-3
+Change Component Footprint: Designator=J2 Old Footprint=TE_DT13-2P New Footprint=TE_282837-3
+Change Component Footprint: Designator=J3 Old Footprint=TE_DT13-4P New Footprint=TE_282837-3
+Change Component Footprint: Designator=J4 Old Footprint=TE_DT13-4P New Footprint=TE_282837-3
+Change Component Footprint: Designator=J1 Old Footprint=TE_DT13-4P New Footprint=TE_282837-4
+Change Component Comment : Designator=F1 Old Comment=0154.100DR New Comment=100mA
+Change Component Comment : Designator=C2 Old Comment=C3216X7R1H105K160AB New Comment=22uF
+Change Component Comment : Designator=C3 Old Comment=C3216X7R1H105K160AB New Comment=22uF
+Change Component Comment : Designator=C5 Old Comment=C3216X7R1H105K160AB New Comment=22uF
+Change Component Comment : Designator=C6 Old Comment=C3216X7R1H105K160AB New Comment=22uF
+Change Component Comment : Designator=J2 Old Comment=DT13-2P New Comment=282837-3
+Change Component Comment : Designator=J3 Old Comment=DT13-4P New Comment=282837-3
+Change Component Comment : Designator=J4 Old Comment=DT13-4P New Comment=282837-3
+Change Component Comment : Designator=J1 Old Comment=DT13-4P New Comment=282837-4
+Change Component Comment : Designator=C1 Old Comment=MAL219051101E3 New Comment=100uF
+Change Component Comment : Designator=C4 Old Comment=MAL219051101E3 New Comment=100uF
+Change component parameters: Designator = "J3" ("J3"); Footprint = "TE_DT13-4P"; UniqueID = "\BEFEHESG" ("\BEFEHESG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-3/TE%20Connectivity%20AMP%20Connectors/view-part/2765182/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "282837-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-3/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-3/TE%20Connectivity%20AMP%20Connectors/view-part/2765182/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "TE_DT13-4P"; UniqueID = "\USVSZQRX" ("\USVSZQRX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-3/TE%20Connectivity%20AMP%20Connectors/view-part/2765182/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "282837-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-3/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-3/TE%20Connectivity%20AMP%20Connectors/view-part/2765182/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "TE_DT13-2P"; UniqueID = "\HVBVEZCS" ("\HVBVEZCS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-3/TE%20Connectivity%20AMP%20Connectors/view-part/2765182/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "282837-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-3/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-3/TE%20Connectivity%20AMP%20Connectors/view-part/2765182/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "TE_DT13-4P"; UniqueID = "\QCCDREQJ" ("\QCCDREQJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-4/TE%20Connectivity%20AMP%20Connectors/view-part/520354/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "282837-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-4/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-4/TE%20Connectivity%20AMP%20Connectors/view-part/520354/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Ignition_In Pin=J1-2
+Added Pin To Net: NetName=GLV_12V Pin=J1-3
+Added Pin To Net: NetName=GND_IN Pin=J1-4
+Added Pin To Net: NetName=Throttle_Out Pin=J3-1
+Added Pin To Net: NetName=GND_OUT Pin=J3-3
+Added Pin To Net: NetName=Throttle_Out Pin=J4-1
+Added Pin To Net: NetName=GND_OUT Pin=J4-3
+Change Net Name : Old Net Name=TS_100V New Net Name=NetJ2_1
