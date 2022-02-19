@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Ignition_In Pin=J1-2
+Removed Pin From Net: NetName=GND_IN Pin=J1-4
+Removed Pin From Net: NetName=GND_OUT Pin=J3-3
+Removed Pin From Net: NetName=GND_OUT Pin=J4-3
+Added Pin To Net: NetName=GND_IN Pin=J1-2
+Added Pin To Net: NetName=Ignition_In Pin=J1-4
+Added Pin To Net: NetName=GND_OUT Pin=J2-2
