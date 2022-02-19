@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND_OUT Pin=K1-4
+Removed Pin From Net: NetName=Ignition_Out_Unfused Pin=K1-6
+Added Pin To Net: NetName=Ignition_Out_Unfused Pin=K1-4
+Added Pin To Net: NetName=GND_OUT Pin=K1-6
